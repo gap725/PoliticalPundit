@@ -13,7 +13,7 @@
     * This should bring you to a page that looks familiar to what we did at the last project meeting
   * To access YOUR CODE, go here: https://console.aws.amazon.com/lambda/
     * Click on *Create Function*, then *Author from Scratch*
-      *For 'Role', select 'choose an existing role', and then for 'Existing Role' select 'service-role/lambda_s3_exec_role
+      * For 'Role', select 'choose an existing role', and then for 'Existing Role' select 'service-role/lambda_s3_exec_role
 * Make a skill that does something (has to be different from what you created today) regarding government/politics AND **uses Google Civic API**
   * Skill must return information about your home address (you can hard code in your address).  You will not be accessing the device's address.  You will just be using your own address.
   * For example, the URL I use to get information about _MY_ representatives in Irvine, I use https://www.googleapis.com/civicinfo/v2/representatives?key=AIzaSyDZxqzVTlhxpsj5mwg1C2JOblc29YndibA&address=40HoneyLocustIrvine&includeOffices=true&levels=country
