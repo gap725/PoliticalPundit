@@ -23,10 +23,12 @@
     * Tell us the address of your local representative's office
     * Give us the 'photoURL' of your local congressman
     * Anything else that pulls data from the Google Civic API
+  
+# You can use THIS WEBSITE: https://echosim.io to test out your skill! You just log in with my account, and you should be able to interact with your skill immediately!
  
 ## I have provided an example of code that gets the name, party, and district number of my House Representative.  Your code can look really similar to this, but you must change the *google_API_Link* to get information from your own address.  
 
-*Make sure you have the right amount of brackets and parentheses! I predict that may the reason to a lot of your issues*
+*Make sure you have the right amount of brackets and parentheses! Also remember to SAVE YOUR CODE!!!!! I predict that may the reason for a lot of your issues*
 
 
 ```javascript
@@ -60,3 +62,5 @@ case "GetRepresentative":{
     }
 
 ```
+
+# This must be fully functional by next week's meeting.  I'll be bringing Alexa back and we'll be testing out all of your skills!
