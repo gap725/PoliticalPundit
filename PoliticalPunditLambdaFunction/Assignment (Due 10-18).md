@@ -6,7 +6,7 @@
 * Create your own **NEW** skill from the beginning:
   * Go to developer.amazon.com
     * Email: glennparham725@gmail.com
-    * Password: gerrymandering 
+    * Password: g*************g  (sorry, I don't want my log-in public on the internet)
   * Click on 'Alexa' in the menu 
   * This should bring you to the _Get Started with Alexa_ page.  Click on the **Alexa Skills Kit** _Get Started_ button.
   * Click on the _Add a New Skill_ button in the top right corner
